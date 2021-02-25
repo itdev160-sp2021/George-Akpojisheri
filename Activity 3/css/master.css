@@ -5,6 +5,25 @@ body
     font-size: 1px;
 
 }
+table
+{
+    background-color: #555, ivory;
+    margin-top: 10px solid black;
+    font-display: 12px auto;
+    font-size: medium 12px;
+    font-weight: normal 1em;
+
+
+}
+.Complex-table
+{
+    background-color: burlywood;
+    margin:10px;
+    font-size: 11px;
+    height: 100px;
+    width: 150px;
+
+}
 span
 {
     font-size: 13px;
@@ -15,12 +34,37 @@ span
     color:#555;
     display: block;
 }
+header
+{
+    align-items: center;
+    text-align: center;
+}
+
+text
+{
+    font-size: 12px;
+    margin-top:2px;
+    align-items: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    ;
+}
+
+
+.pageCaption
+{
+    margin:4px solid grey;
+    font-size: medium;
+    font-size: 15px;
+    text-align-last: center;
+    align-items: center;
+}
 p
 {
     font-size: 13px;
     font-family: sans-serif;
     padding: 17px;
-    padding-top:  14px solid black;
+    padding-top:  10px solid black;
 
     background-color: teal;
     color:#555;
@@ -36,7 +80,7 @@ aside
     font-family: sans-serif;
     padding: 17px;
     padding-top:  14px solid grey;
-    background-color: black;
+    background-color: white;
     color:#555;
     font-style: normal;
     text-align: right;

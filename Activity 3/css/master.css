@@ -7,11 +7,11 @@ body
 }
 table
 {
-    background-color: #555, ivory;
-    margin-top: 10px solid black;
-    font-display: 12px auto;
-    font-size: medium 12px;
-    font-weight: normal 1em;
+width: 400px;
+border-spacing: 40px;
+background-color: WHITE;
+padding-top: 40px;
+height: 100px;
 
 
 }
@@ -93,4 +93,13 @@ display: block;
     font-family: sans-serif;
     font-weight: normal;
 
+}
+main, .Complex-table
+{
+    align-items: center;
+    align-content: center;
+    margin: 4% !important;
+    background-color: ivory;
+    font-size: medium 13px;
+    padding: 0px 15px 30px;
 }

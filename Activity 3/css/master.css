@@ -5,6 +5,43 @@ body
     font-size: 1px;
 
 }
+ul
+{
+    align-items: center;
+    align-content: center;
+    width: 500px;
+
+}
+span
+{
+    align-items: center;
+    align-content: center;
+    width:500px;
+color: transparent;
+
+    font-size: 35px solid black;
+    font-style: normal;
+    
+}
+
+
+h1
+{
+    margin: 10px solid teal;
+    align-items: center;
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+border: 4px solid black;
+border-style:inset;
+
+}
+.Download_BulletMark
+{
+    font-style: italic;
+    font-size: 12px;
+
+}
 aside
 {
     border:4px solid black;
@@ -30,6 +67,26 @@ color: black;
     align-items: center;
     text-align: center;
 
+}
+#h2
+{
+    
+    align-content: center;
+    align-content: center;
+color:thistle;
+background-color: transparent;
+font-display: solid black;
+font-size: 13px solid black;
+}
+h2,.Desc,ul, li
+
+{
+    align-content: center;
+    align-content: center;
+color:thistle;
+background-color: transparent;
+font-display: solid black;
+font-size: 5em solid black;
 }
 text
 {

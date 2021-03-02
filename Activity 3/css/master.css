@@ -27,13 +27,14 @@ color: transparent;
 
 h1
 {
-    margin: 10px solid teal;
-    align-items: center;
-    text-align: center;
-    font-size: 12px;
-    font-family: 'Times New Roman', Times, serif;
-border: 4px solid black;
-border-style:inset;
+    
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
 
 }
 .Download_BulletMark
@@ -68,15 +69,16 @@ color: black;
     text-align: center;
 
 }
-#h2
+h2
 {
     
-    align-content: center;
-    align-content: center;
-color:thistle;
-background-color: transparent;
-font-display: solid black;
-font-size: 13px solid black;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
 }
 h2,.Desc,ul, li
 
@@ -103,17 +105,20 @@ table, .Complex-table
     align-items: center;
     align-self: center;
     align-content: center;
+    color:black;
+    background-color: teal;
+    opacity: 3px;
 }
 
 span
 {
-    font-size: 13px;
-    font-family: sans-serif;
-    padding: 17px;
-    padding-top:  14px solid maroon;
-    background-color: teal;
-    color:#555;
-    display: block;
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
 }
 .Complex-table, table
 {
@@ -162,6 +167,14 @@ p
     color:#555;
     font-style: italic;
     display: block;
+    display: block;
+    font-size: 13px;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
 }
 aside
 {

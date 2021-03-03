@@ -2,7 +2,7 @@ body
 {
     font-family: "Open Sans", sans-serif;
     color: #555;
-    font-size: 1px;
+    font-size: 11px;
 
 }
 ul
@@ -12,6 +12,16 @@ ul
     width: 500px;
 
 }
+.student-price
+{
+    font-size:13px;
+}
+.greeting
+{
+    font-size: 13px;
+}
+
+
 span
 {
     align-items: center;
@@ -134,7 +144,7 @@ header
     text-align: center;
 }
 
-text
+text,.student-price
 {
     font-size: 12px;
     margin-top:2px;
@@ -169,7 +179,7 @@ p
     display: block;
     display: block;
     font-size: 13px;
-    margin-block-start: 0.83em;
+    margin-block-start: 10px;
     margin-block-end: 0.83em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
